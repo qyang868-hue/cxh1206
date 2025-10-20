@@ -14,7 +14,8 @@
       "enabled": false,
       "swipeBack": true,
       "functions": {},
-      "customCSS": ""
+      "customCSS": "",
+      "cssPresets": []
     },
     "globalFont": {
       "name": "",
