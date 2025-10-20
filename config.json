@@ -11,7 +11,7 @@
     "paginationEnabled": true,
     "themeStyle": "neumorphism",
     "jellyBall": {
-      "enabled": true,
+      "enabled": false,
       "swipeBack": true,
       "functions": {},
       "customCSS": ""
