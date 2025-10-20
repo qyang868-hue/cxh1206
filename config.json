@@ -9,7 +9,7 @@
   ],
   "settings": {
     "paginationEnabled": true,
-    "themeStyle": "neumorphism",
+    "themeStyle": "glass",
     "jellyBall": {
       "enabled": false,
       "swipeBack": true,
@@ -29,6 +29,9 @@
       "message": "是时候该备份你的项目啦！",
       "onExit": false,
       "projects": []
+    },
+    "mobileMode": {
+      "enabled": true
     }
   },
   "themePresets": [
