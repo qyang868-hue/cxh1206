@@ -22,6 +22,12 @@
       "url": ""
     },
     "fontPresets": [],
+    "pendant": {
+      "enabled": false,
+      "lineLength": "5rem",
+      "lineColor": "#000000",
+      "shapeContent": "☁️"
+    },
     "backupReminder": {
       "enabled": false,
       "timeBasedEnabled": false,
@@ -29,6 +35,10 @@
       "message": "是时候该备份你的项目啦！",
       "onExit": false,
       "projects": []
+    },
+    "checkinSettings": {
+      "headerColor": "#8B4513",
+      "cardColor": "#ffffff"
     },
     "mobileMode": {
       "enabled": true
