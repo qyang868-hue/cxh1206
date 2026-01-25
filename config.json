@@ -9,13 +9,12 @@
   ],
   "settings": {
     "paginationEnabled": true,
-    "themeStyle": "glass",
+    "themeStyle": "neumorphism",
     "jellyBall": {
       "enabled": false,
       "swipeBack": true,
       "functions": {},
-      "customCSS": "",
-      "cssPresets": []
+      "customCSS": ""
     },
     "globalFont": {
       "name": "",
@@ -39,9 +38,6 @@
     "checkinSettings": {
       "headerColor": "#8B4513",
       "cardColor": "#ffffff"
-    },
-    "mobileMode": {
-      "enabled": true
     }
   },
   "themePresets": [
@@ -55,5 +51,6 @@
       }
     }
   ],
-  "lockscreenWidgets": {}
+  "lockscreenWidgets": {},
+  "dataStructureVersion": 2
 }
